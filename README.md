@@ -1,4 +1,4 @@
-# Hey ! Moi c'est Mickaël 😼
+# Hey ! Moi c'est Mickaël
 
 <a href="https://www.linkedin.com/in/mickael-lalanne" target="_blank">
     <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
@@ -8,9 +8,6 @@
 </div>
 <br>
 
-💻 Développeur Web actuellement à Québec <br>
-💛 Passionné de front-end mais toujours enthousiaste à l'idée d'apprendre de nouvelles choses <br>
-📢 *« Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live »*
 ## ⚡ Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
